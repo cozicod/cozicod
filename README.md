@@ -1,5 +1,15 @@
 # 💫 About Me:
-🔭 I'm a BCA ( Batchlor In Computer Application )<br>🌱 I’m currently learning Full Stack Development ( MERN Stack and Also Learning AI/ML )
+Hi there! I’m **Yash Gajiwala** (aka cozicod) 👨‍💻
+I’m a **BCA graduate** and Full Stack Developer with a passion for building web applications and exploring new technologies. I’m currently focused on **MERN Stack development**, and expanding my knowledge in **AI/ML** and real-world problem-solving.
+
+I enjoy learning by building, contributing to open source, and sharing what I learn with the community.
+
+## 💡 What I Do
+
+- 🔭 **Working on:** Full Stack projects using MERN (MongoDB, Express.js, React, Node.js)
+- 🌱 **Learning:** Modern JavaScript, AI/ML concepts, advanced backend techniques
+- 💬 **Ask me about:** Frontend & backend development, project structuring, Git & GitHub
+- 🤝 **Open to collaborating on:** Practical real-world apps and open-source contributions
 
 
 ## 🌐 Socials:
