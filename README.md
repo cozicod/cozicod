@@ -29,3 +29,6 @@ I enjoy learning by building, contributing to open source, and sharing what I le
 ![](https://github-contributor-stats.vercel.app/api?username=cozicod&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:F75C7E&height=120&section=footer"/>
+</p>
