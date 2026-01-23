@@ -1,5 +1,10 @@
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:F75C7E&height=200&section=header&text=Hi%20there!%20I’m%20Yash%20Gajiwala%20(aka%20cozicod)%20👨‍💻&fontSize=36&fontColor=ffffff&fontAlignY=40"/>
+</p>
+
+
 # 💫 About Me:
-Hi there! I’m Yash Gajiwala (aka cozicod) 👨‍💻 I’m a BCA graduate and Full Stack Developer with a passion for building web applications and exploring new technologies. I’m currently focused on MERN Stack development, and expanding my knowledge in ML and real-world problem-solving.<br><br>I enjoy learning by building, contributing to open source, and sharing what I learn with the community.
+I’m a BCA graduate and Full Stack Developer with a passion for building web applications and exploring new technologies. I’m currently focused on MERN Stack development, and expanding my knowledge in ML and real-world problem-solving.<br><br>I enjoy learning by building, contributing to open source, and sharing what I learn with the community.
 
 
 ## 🌐 Socials:
